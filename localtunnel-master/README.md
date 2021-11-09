@@ -1,18 +1,16 @@
 # localtunnel
 
-localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
+Сможет запустить локальный сервер 
 
-Great for working with browser testing tools like browserling or external api callback services like twilio which require a public url for callbacks.
-
-## Quickstart
+## Быстрый старт
 
 ```
 npx localtunnel --port 8000
 ```
 
-## Installation
+## Установка
 
-### Globally
+### Глобальная
 
 ```
 npm install -g localtunnel
